@@ -1,6 +1,7 @@
 # Project datafun-07-ml
 
 ## Author: Jordan
+
 This project will be an introduction to machine learning utilizing a jupyter notebook.
 ---
 
