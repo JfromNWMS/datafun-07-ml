@@ -1,7 +1,7 @@
 # Project datafun-07-ml
 
 ## Author: Jordan
-
+---
 This project is an introduction to simple linear regression and machine learning.  The project consists of only a Jupyter notebook file and a csv file containing the average high temperature for New York City in January for the years 1895 to 2018.  The dataset can be found on GitHub here:  [ave_hi_nyc_jan_1895-2018.csv](https://github.com/pdeitel/IntroToPython/blob/master/examples/ch15/ave_yearly_temp_nyc_1895-2017.csv).  Within the notebook file, jordan_ml.ipynb, simple linear regression is performed on the dataset and the resultant line is plotted using two different methods following the exploratory data analysis format.  The methods used and compared are simple linear regression on all of the date and temperature data and simple linear regression performed on a 75% distribution training set of the date and temperature data.  Please see requirements.txt for instructions on installing dependencies for this project.
 ---
 
