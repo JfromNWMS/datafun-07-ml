@@ -144,6 +144,7 @@ ipykernel
 # Data manipulation and analysis (built on numpy, 10-20 MB)
 pandas
 scipy
+scikit-learn
 
 # Required by pandas
 pyarrow
